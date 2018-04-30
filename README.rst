@@ -1,7 +1,7 @@
 |PyPI version| |Docs badge| |Build Status|
 
 *******
-Ansible
+Ansible 1**2***3***4
 *******
 
 Ansible is a radically simple IT automation system. It handles
